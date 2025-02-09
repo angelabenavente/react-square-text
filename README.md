@@ -81,6 +81,10 @@ import SquareText from 'react-square-text';
   />
 ```
 
+## Result
+
+<img width="490" alt="react-square-text_basic-example" src="https://github.com/user-attachments/assets/8b48569e-c47b-4016-8964-011ac3ac7210" />
+
 ---
 
 ## 🛠️ Development
